@@ -17,6 +17,8 @@ It focuses on three high-growth corridors:
 - **East Bangalore (Whitefield / Budigere / Hoskote)**
 - **South-East Bangalore (Sarjapur / ORR)**
 
+The dashboard is supported by a **detailed PDF report** that explains infrastructure drivers and developer behavior in depth.
+
 The analysis is inspired by how Tier-1 developers like **Prestige, Brigade, and Godrej** allocate capital ahead of infrastructure cycles.
 
 ## Key Insights Visualized
